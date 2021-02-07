@@ -14,4 +14,4 @@ In total, the program includes training of three types of numbers, these are:
 * Dates. Completely, no cuts.
   - You have a function to help you remember all the months of the year.
   
-  I am sure you will spend your time working on this program in full joy and getting the result you desire. Happy use!
+I am sure you will spend your time working on this program in full joy and getting the result you desire. Happy use!
